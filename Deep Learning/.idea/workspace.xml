@@ -10,15 +10,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file leaf-file-name="multiCNN.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/multiCNN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="107" column="37" lean-forward="true" selection-start-line="107" selection-start-column="37" selection-end-line="107" selection-end-column="37" />
+            <state relative-caret-position="825">
+              <caret line="347" column="50" lean-forward="true" selection-start-line="347" selection-start-column="50" selection-end-line="347" selection-end-column="50" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
-                <element signature="e#1338#1675#0" expanded="false" />
+                <element signature="e#1340#1677#0" expanded="false" />
+                <marker date="1517911966816" expanded="true" signature="10613:11198" ph="..." />
               </folding>
             </state>
           </provider>
@@ -71,10 +72,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="11" />
-    <option name="y" value="35" />
-    <option name="width" value="1337" />
-    <option name="height" value="871" />
+    <option name="x" value="440" />
+    <option name="y" value="97" />
+    <option name="width" value="1230" />
+    <option name="height" value="862" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -100,20 +101,6 @@
               <item name="Deep Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Deep Learning" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Deep Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Deep Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Deep Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="Deep Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.5 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -123,7 +110,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="BuildoutCfg" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/1.SJTU/1-1program/RandomPCCByWangJingru_CNV(180207)" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -247,14 +234,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.017708333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.017708333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1399788" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1399788" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -295,7 +283,8 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
-            <element signature="e#1338#1675#0" expanded="false" />
+            <element signature="e#1340#1677#0" expanded="false" />
+            <marker date="1517911966816" expanded="true" signature="10613:11198" ph="..." />
           </folding>
         </state>
       </provider>
@@ -306,7 +295,8 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
-            <element signature="e#1338#1675#0" expanded="false" />
+            <element signature="e#1340#1677#0" expanded="false" />
+            <marker date="1517911966816" expanded="true" signature="10613:11198" ph="..." />
           </folding>
         </state>
       </provider>
@@ -317,7 +307,8 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
-            <element signature="e#1338#1675#0" expanded="false" />
+            <element signature="e#1340#1677#0" expanded="false" />
+            <marker date="1517911966816" expanded="true" signature="10613:11198" ph="..." />
           </folding>
         </state>
       </provider>
@@ -328,7 +319,44 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
-            <element signature="e#1338#1675#0" expanded="false" />
+            <element signature="e#1340#1677#0" expanded="false" />
+            <marker date="1517911966816" expanded="true" signature="10613:11198" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiCNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#1340#1677#0" expanded="false" />
+            <marker date="1517911966816" expanded="true" signature="10613:11198" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiCNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#1340#1677#0" expanded="false" />
+            <marker date="1517911966816" expanded="true" signature="10613:11198" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiCNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#1340#1677#0" expanded="false" />
+            <marker date="1517911966816" expanded="true" signature="10613:11198" ph="..." />
           </folding>
         </state>
       </provider>
@@ -345,13 +373,7 @@
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_multiCNN.zip/train_general.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_multiCNN.zip/predict.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_multiCNN.zip/multiCNN.py" />
-    <entry file="file://D:/Anaconda/Lib/site-packages/numpy/lib/npyio.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="733" column="17" lean-forward="false" selection-start-line="733" selection-start-column="8" selection-end-line="733" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/numpy/lib/npyio.py" />
     <entry file="file://$PROJECT_DIR$/data/test.txt" />
     <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/a.py" />
@@ -368,27 +390,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/new_data_label_sequence_Cut.txt" />
-    <entry file="file://D:/Anaconda/Lib/site-packages/tensorflow/python/framework/ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="505" column="0" lean-forward="true" selection-start-line="505" selection-start-column="0" selection-end-line="505" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/keras/legacy/layers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="442" column="0" lean-forward="false" selection-start-line="442" selection-start-column="0" selection-end-line="442" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/keras/utils/np_utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/tensorflow/python/framework/ops.py" />
+    <entry file="file://D:/Anaconda/Lib/site-packages/keras/legacy/layers.py" />
+    <entry file="file://D:/Anaconda/Lib/site-packages/keras/utils/np_utils.py" />
     <entry file="file://$PROJECT_DIR$/0-0.5-merge.h5" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -397,40 +401,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/tensorflow/python/client/session.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="1301" column="0" lean-forward="false" selection-start-line="1301" selection-start-column="0" selection-end-line="1301" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/tensorflow/python/framework/errors_impl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="472" column="0" lean-forward="false" selection-start-line="472" selection-start-column="0" selection-end-line="472" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/keras/engine/training.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="1205" column="0" lean-forward="false" selection-start-line="1205" selection-start-column="0" selection-end-line="1205" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/keras/backend/tensorflow_backend.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81114">
-          <caret line="2482" column="44" lean-forward="false" selection-start-line="2482" selection-start-column="44" selection-end-line="2482" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Anaconda/Lib/site-packages/tensorflow/python/client/session.py" />
+    <entry file="file://D:/Anaconda/Lib/site-packages/tensorflow/python/framework/errors_impl.py" />
+    <entry file="file://D:/Anaconda/Lib/site-packages/keras/engine/training.py" />
+    <entry file="file://D:/Anaconda/Lib/site-packages/keras/backend/tensorflow_backend.py" />
     <entry file="file://$PROJECT_DIR$/data/new_data_label_sequence.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -438,35 +416,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="94" lean-forward="true" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="94" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/3.NENU/3-2Biodata/BioDataCoding-master/Ongoing/liufangfang/AAindex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#11#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/3.NENU/3-2Biodata/BioDataCoding-master/Ongoing/liufangfang/AAindex.py" />
     <entry file="file://$PROJECT_DIR$/sequenceCut.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3036">
           <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/multiCNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="107" column="37" lean-forward="true" selection-start-line="107" selection-start-column="37" selection-end-line="107" selection-end-column="37" />
+        <state relative-caret-position="825">
+          <caret line="347" column="50" lean-forward="true" selection-start-line="347" selection-start-column="50" selection-end-line="347" selection-end-column="50" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
-            <element signature="e#1338#1675#0" expanded="false" />
+            <element signature="e#1340#1677#0" expanded="false" />
+            <marker date="1517911966816" expanded="true" signature="10613:11198" ph="..." />
           </folding>
         </state>
       </provider>

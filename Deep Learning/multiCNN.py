@@ -14,7 +14,9 @@ import sys
 import keras.utils.np_utils as kutils
 import random
 import matplotlib.pyplot as plt
+
 sys.setrecursionlimit(1500)
+
 
 def step_decay(epoch):
     initial_lrate = 0.001
@@ -62,7 +64,7 @@ def f1_loss(y_true, y_pred):
 
 
 ########## MultiCNN ##########
-def MultiCNN(input, Y,  batch_size=2048,
+def MultiCNN(input, Y, batch_size=2048,
              nb_epoch=1000,
              pre_train_seq_path=None,
              pre_train_physical_path=None,
@@ -73,11 +75,10 @@ def MultiCNN(input, Y,  batch_size=2048,
     ########## Set Oneofkey Network Size and Data ##########
 
     trainY = kutils.to_categorical(Y)
-    #print("trainY:", trainY)
+    # print("trainY:", trainY)
     input_row = input.shape[2]
     input_col = input.shape[3]
     trainX_t = input;
-
 
     ########## Set Early_stopping ##########
 
@@ -87,8 +88,6 @@ def MultiCNN(input, Y,  batch_size=2048,
     ########## TrainX_t For Shape ##########
     trainX_t.shape = (trainX_t.shape[0], input_row, input_col)
     input = Input(shape=(input_row, input_col))
-
-
 
     if compiletimes == 0:
 
@@ -103,7 +102,8 @@ def MultiCNN(input, Y,  batch_size=2048,
         optimization = 'Nadam';
 
         ########## Begin Oneofkey Network ##########
-        x = conv.Convolution1D(101, 1, init='glorot_normal', W_regularizer=l1(0.02), border_mode="same", name='0')(input)
+        x = conv.Convolution1D(101, 1, init='glorot_normal', W_regularizer=l1(0.02), border_mode="same", name='0')(
+            input)
         x = Dropout(0.4)(x)
         x = Activation('softsign')(x)
 
@@ -247,9 +247,8 @@ def convertSampleToProbMatr(sampleSeq3DArr):  # changed add one column for '1'
     return probMatr
 
 
-
-
 seq_list = []
+
 
 def Cut(Seq, Fix_l, Overlap):
     """
@@ -338,7 +337,6 @@ if __name__ == "__main__":
     """
     length = calculate_length(positive_data_a_filepath)
     print(length)
-
 
     """
     # read raw sequence and cut it
